@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AdvJavaInstruction.iml" filepath="$PROJECT_DIR$/AdvJavaInstruction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecordTypes/RecordTypes.iml" filepath="$PROJECT_DIR$/RecordTypes/RecordTypes.iml" />
     </modules>
   </component>
 </project>
